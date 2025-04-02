@@ -1,0 +1,7 @@
+C:\Users\Dev Chauhan\Desktop\coursera\BackendProject\obj\Debug\net10.0\BackendProject.csproj.AssemblyReference.cache
+C:\Users\Dev Chauhan\Desktop\coursera\BackendProject\obj\Debug\net10.0\BackendProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev Chauhan\Desktop\coursera\BackendProject\obj\Debug\net10.0\BackendProject.AssemblyInfoInputs.cache
+C:\Users\Dev Chauhan\Desktop\coursera\BackendProject\obj\Debug\net10.0\BackendProject.AssemblyInfo.cs
+C:\Users\Dev Chauhan\Desktop\coursera\BackendProject\obj\Debug\net10.0\BackendProject.csproj.CoreCompileInputs.cache
+C:\Users\Dev Chauhan\Desktop\coursera\BackendProject\obj\Debug\net10.0\BackendProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dev Chauhan\Desktop\coursera\BackendProject\obj\Debug\net10.0\BackendProject.MvcApplicationPartsAssemblyInfo.cache
